@@ -47,13 +47,14 @@ Sunday       67 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     2 hrs 14 mins       ████████████████████████░   97.4% 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 17 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
