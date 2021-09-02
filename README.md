@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-308551%20lines%20of%20code-blue)
 
@@ -47,16 +47,13 @@ Sunday       95 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-JavaScript               9 mins              ██████████████░░░░░░░░░░░   59.2% 
-Python                   5 mins              █████████░░░░░░░░░░░░░░░░   36.74% 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.97% 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -77,7 +74,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/voidash/voidash/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2021
+ Last Updated on 02/09/2021
 <!--END_SECTION:waka-->
 
 
