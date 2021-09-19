@@ -47,14 +47,13 @@ Sunday       95 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Python                   1 hr 53 mins        ██████████████████████░░░   90.6% 
-Text                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.4%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 5 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -75,7 +74,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/voidash/voidash/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/09/2021
+ Last Updated on 19/09/2021
 <!--END_SECTION:waka-->
 
 
