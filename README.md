@@ -6,11 +6,11 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-308587%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 189 Contributions in the Year 2021
  > 
-> 📦 71.2 kB Used in Github's Storage 
+> 📦 71.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,13 +47,14 @@ Sunday       95 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   34 mins             ██████████████████░░░░░░░   71.51% 
+HTML                     13 mins             ███████░░░░░░░░░░░░░░░░░░   28.49%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  47 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    47 mins             █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +75,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/voidash/voidash/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 24/09/2021
 <!--END_SECTION:waka-->
 
 
