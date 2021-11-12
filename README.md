@@ -10,7 +10,7 @@
 
 > 🏆 189 Contributions in the Year 2021
  > 
-> 📦 71.2 kB Used in GitHub's Storage 
+> 📦 71.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,13 +47,13 @@ Sunday       78 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -74,7 +74,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/voidash/voidash/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/11/2021
+ Last Updated on 12/11/2021
 <!--END_SECTION:waka-->
 
 
