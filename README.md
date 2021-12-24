@@ -18,3 +18,11 @@
 |-|-|
 |  ![alt text](https://github-readme-stats.vercel.app/api/top-langs?username=voidash&show_icons=true&locale=en&langs_count=8&layout=compact)  | ![alt text](https://github-readme-stats.vercel.app/api?username=voidash&show_icons=true&locale=en) | 
 
+
+<p align="center">
+  <a target= "_blank" href="mailto:ashish.thapa477@gmail.com" alt="Mail"><img height='45' src="./icons/email.png"></a>
+  <a target= "_blank" href="https://github.com/voidash" alt="GitHub"><img height='45' src="./icons/github.png"></a>
+  <a target= "_blank" href="https://www.facebook.com/gmaashish/" alt="Facebook"><img height='45' src="./icons/facebook.png"></a>
+  <a target= "_blank" href="https://twitter.com/voidash_" alt="Twitter"><img height='45' src="./icons/twitter.png"></a>
+  <a target= "_blank" href="https://www.linkedin.com/in/voidash/" alt="Linkedin"><img height='45' src="./icons/linkedin.png"></a>
+</p>
