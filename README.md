@@ -9,8 +9,6 @@
 <h2 align="left"> Blog Posts</h2>
  
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Rust and C++](https://voidash.github.io/blog/posts/2021/rust-new-competitor-to-c-and-c++/)
-- [Fixing Date problems that arises Dual Boot and CMOS on linux](https://voidash.github.io/blog/posts/2021/linux-and-time/) 
 <!-- BLOG-POST-LIST:END -->
 
 
