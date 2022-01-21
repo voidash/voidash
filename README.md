@@ -10,10 +10,10 @@
  
 <!-- BLOG-POST-LIST:START -->
 - [Scripting with Rust: A basic Guide](https://voidash.github.io/blog/posts/2021/rust-as-script/)
-- [create course out of 8085 Emulator project](https://voidash.github.io/blog/year-worth-of-ideas/2022/january-2/)
-- [Easy Payment System For Cryptocurrencies](https://voidash.github.io/blog/year-worth-of-ideas/2022/january-1/)
 - [Rust New Competitor to C and C++](https://voidash.github.io/blog/posts/2021/rust-new-competitor-to-c-and-c++/)
 - [How To Install Rust And The Linker It Requires On Linux](https://voidash.github.io/blog/posts/2021/install-rust-linux/)
+- [Time and Linux](https://voidash.github.io/blog/posts/2021/linux-and-time/)
+- [Reflecting Myself: 2020](https://voidash.github.io/blog/random/2020/post-class-reflection/)
 <!-- BLOG-POST-LIST:END -->
 
 
