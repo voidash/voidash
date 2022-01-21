@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Latest Blog Workflow
 
 on:
   workflow_dispatch:
