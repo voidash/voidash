@@ -9,11 +9,11 @@
 <h2 align="left"> Blog Posts</h2>
  
 <!-- BLOG-POST-LIST:START -->
+- [How to switch between Nepali and English keyboard layouts in Linux](https://voidash.github.io/blog/posts/2022/switching-keyboard-layouts-in-linux/)
 - [Scripting with Rust: A basic Guide](https://voidash.github.io/blog/posts/2021/rust-as-script/)
 - [Rust New Competitor to C and C++](https://voidash.github.io/blog/posts/2021/rust-new-competitor-to-c-and-c++/)
 - [How To Install Rust And The Linker It Requires On Linux](https://voidash.github.io/blog/posts/2021/install-rust-linux/)
 - [Time and Linux](https://voidash.github.io/blog/posts/2021/linux-and-time/)
-- [Reflecting Myself: 2020](https://voidash.github.io/blog/random/2020/post-class-reflection/)
 <!-- BLOG-POST-LIST:END -->
 
 
