@@ -9,11 +9,11 @@
 <h2 align="left"> Blog Posts</h2>
  
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Nushell](https://voidash.github.io/blog/posts/2022/introducing-nushell/)
 - [Uninstall System Apps in Android With ADB](https://voidash.github.io/blog/posts/2022/uninstall-system-apps-in-android-with-adb/)
 - [How to switch between Nepali and English keyboard layouts in Linux](https://voidash.github.io/blog/posts/2022/switching-keyboard-layouts-in-linux/)
 - [Scripting with Rust: A basic Guide](https://voidash.github.io/blog/posts/2021/rust-as-script/)
 - [Rust New Competitor to C and C++](https://voidash.github.io/blog/posts/2021/rust-new-competitor-to-c-and-c++/)
-- [How To Install Rust And The Linker It Requires On Linux](https://voidash.github.io/blog/posts/2021/install-rust-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
