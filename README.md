@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Thapa</h1>
 <h3 align="center">I like solving problems</h3>
 
-- 🔭 I’m currently working on [8085 Emulator](https://github.com/voidash/8085-Emulator/)
+- 🔭 I’m currently working on GSOC 2022
 - 🌱 I’m currently learning **Rust**
 - 📝 I regularly write articles on [voidash.github.io/blog/](https://voidash.github.io/blog/)
 - 👨 Connect with me on [**Linkedin**](https://www.linkedin.com/in/voidash/)
