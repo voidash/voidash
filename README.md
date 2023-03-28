@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on NepPreter
 - 🌱 I’m currently learning **Rust**
 - 📝 I regularly write articles on [voidash.github.io/blog/](https://voidash.github.io/blog/)
-- 👨 Connect with me on [**Linkedin**](https://www.linkedin.com/in/voidash/)
+
 
 <h2 align="left"> Blog Posts</h2>
  
