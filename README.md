@@ -17,9 +17,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-| Top Languages | My Stats | 
-|-|-|
-|  ![alt text](https://github-readme-stats.vercel.app/api/top-langs?username=voidash&show_icons=true&locale=en&langs_count=8&layout=compact)  | ![alt text](https://github-readme-stats.vercel.app/api?username=voidash&show_icons=true&locale=en) | 
+
+![alt text](https://github-readme-stats.vercel.app/api?username=voidash&show_icons=true&locale=en)
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=voidash&style=for-the-badge&color=brightgreen"/></div>
 
