@@ -18,10 +18,6 @@
 
 
 
-![alt text](https://github-readme-stats.vercel.app/api?username=voidash&show_icons=true&locale=en)
-
-
-
 <p align="center">
   <a target= "_blank" href="mailto:ashish.thapa477@gmail.com" alt="Mail"><img height='45' src="./icons/email.png"></a>
   <a target= "_blank" href="https://www.facebook.com/voidash" alt="Facebook"><img height='45' src="./icons/facebook.png"></a>
