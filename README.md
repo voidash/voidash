@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashish Thapa</h1>
-<h3 align="center">I like solving problems</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">A thinker sees his own actions as experiments and questions--as attempts to find out something -- Friedrich Nietzsche</h3>
 
 - 🔭 I’m currently working on NepPreter
 - 🌱 I’m currently learning **Rust**
