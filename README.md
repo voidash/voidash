@@ -9,11 +9,11 @@
 <h2 align="left"> Blog Posts</h2>
  
 <!-- BLOG-POST-LIST:START -->
+- [Pragmatic way to create a Rust based Web application | From Start to Deployment](https://voidash.github.io/blog/posts/2023/rust-webapp/)
+- [Approaching Rest API Design](https://voidash.github.io/blog/posts/2023/rest-api-design-handbook-summary/)
+- [Tor Is Beautiful](https://voidash.github.io/blog/posts/2023/tor-is-beautiful/)
+- [Pokhara Memories](https://voidash.github.io/blog/posts/2023/mustang-memories/)
 - [Introducing Nushell](https://voidash.github.io/blog/posts/2022/introducing-nushell/)
-- [Uninstall System Apps in Android With ADB](https://voidash.github.io/blog/posts/2022/uninstall-system-apps-in-android-with-adb/)
-- [How to switch between Nepali and English keyboard layouts in Linux](https://voidash.github.io/blog/posts/2022/switching-keyboard-layouts-in-linux/)
-- [Scripting with Rust: A basic Guide](https://voidash.github.io/blog/posts/2021/rust-as-script/)
-- [Rust New Competitor to C and C++](https://voidash.github.io/blog/posts/2021/rust-new-competitor-to-c-and-c++/)
 <!-- BLOG-POST-LIST:END -->
 
 
