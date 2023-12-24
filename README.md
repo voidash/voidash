@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A thinker sees his own actions as experiments and questions--as attempts to find out something -- Friedrich Nietzsche</h3>
 
-- 🔭 I’m currently working on NepPreter
+- 🔭 I’m currently working on [esptools](https://twitter.com/esp_tools)
 - 🌱 I’m currently learning **Rust**
 - 📝 I regularly write articles on [voidash.github.io/blog/](https://voidash.github.io/blog/)
 
