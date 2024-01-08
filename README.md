@@ -9,11 +9,11 @@
 <h2 align="left"> Blog Posts</h2>
  
 <!-- BLOG-POST-LIST:START -->
+- [Postgres on Digital Ocean Droplet](https://voidash.github.io/blog/posts/2023/postgres-on-digital-ocean-droplet/)
 - [Pragmatic way to create a Rust based Web application | From Start to Deployment](https://voidash.github.io/blog/posts/2023/rust-webapp/)
 - [Approaching Rest API Design](https://voidash.github.io/blog/posts/2023/rest-api-design-handbook-summary/)
 - [Tor Is Beautiful](https://voidash.github.io/blog/posts/2023/tor-is-beautiful/)
 - [Pokhara Memories](https://voidash.github.io/blog/posts/2023/mustang-memories/)
-- [Introducing Nushell](https://voidash.github.io/blog/posts/2022/introducing-nushell/)
 <!-- BLOG-POST-LIST:END -->
 
 
