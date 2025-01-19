@@ -9,11 +9,11 @@
 <h2 align="left"> Blog Posts</h2>
  
 <!-- BLOG-POST-LIST:START -->
-- [Joy and Curiosity #1](https://voidash.github.io/blog/joy-and-curiosity/2025/1/)
-- [Postgres on Digital Ocean Droplet](https://voidash.github.io/blog/posts/2023/postgres-on-digital-ocean-droplet/)
-- [Hacking Casio Calculator](https://voidash.github.io/blog/posts/2023/hacking-casio-calculator/)
-- [Pragmatic way to create a Rust based Web application | From Start to Deployment](https://voidash.github.io/blog/posts/2023/rust-webapp/)
-- [Approaching Rest API Design](https://voidash.github.io/blog/posts/2023/rest-api-design-handbook-summary/)
+- [Joy and Curiosity #1](https://thapa-ashish.com.np/blog/joy-and-curiosity/2025/1/)
+- [Joy and Curiosity #1](https://thapa-ashish.com.np/blog/joy-and-curiosity/2025/1/)
+- [Postgres on Digital Ocean Droplet](https://thapa-ashish.com.np/blog/posts/2023/postgres-on-digital-ocean-droplet/)
+- [Hacking Casio Calculator](https://thapa-ashish.com.np/blog/posts/2023/hacking-casio-calculator/)
+- [Pragmatic way to create a Rust based Web application | From Start to Deployment](https://thapa-ashish.com.np/blog/posts/2023/rust-webapp/)
 <!-- BLOG-POST-LIST:END -->
 
 
