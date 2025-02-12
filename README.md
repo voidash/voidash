@@ -10,8 +10,6 @@
  
 <!-- BLOG-POST-LIST:START -->
 - [Joy &amp; Curiosity #3](https://thapa-ashish.com.np/blog/joy-and-curiosity/2025/3/)
-- [Joy &amp; Curiosity #3](https://thapa-ashish.com.np/blog/joy-and-curiosity/2025/3/)
-- [Joy &amp; Curiosity #2](https://thapa-ashish.com.np/blog/joy-and-curiosity/2025/2/)
 - [Joy &amp; Curiosity #2](https://thapa-ashish.com.np/blog/joy-and-curiosity/2025/2/)
 - [Joy and Curiosity #1](https://thapa-ashish.com.np/blog/joy-and-curiosity/2025/1/)
 <!-- BLOG-POST-LIST:END -->
