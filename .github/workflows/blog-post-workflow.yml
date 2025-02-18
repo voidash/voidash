@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://thapa-ashish.com.np/blog/index.xml, https://thapa-ashish.com.np/blog/joy-and-curiosity/index.xml"
+          feed_list: "https://thapa-ashish.com.np/blog/index.xml"
