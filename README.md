@@ -8,11 +8,11 @@
 <h2 align="left"> Blog Posts</h2>
  
 <!-- BLOG-POST-LIST:START -->
-- [Joy &amp; Curiosity #8](voidash.github.io/blog/joy-and-curiosity/2025/8/)
-- [Joy &amp; Curiosity #7](voidash.github.io/blog/joy-and-curiosity/2025/7/)
-- [Joy &amp; Curiosity #6](voidash.github.io/blog/joy-and-curiosity/2025/6/)
-- [Joy &amp; Curiosity #5](voidash.github.io/blog/joy-and-curiosity/2025/5/)
-- [Joy &amp; Curiosity #4](voidash.github.io/blog/joy-and-curiosity/2025/4/)
+- [Joy &amp; Curiosity #9](https://voidash.github.io/blog/joy-and-curiosity/2025/9/)
+- [Joy &amp; Curiosity #8](https://voidash.github.io/blog/joy-and-curiosity/2025/8/)
+- [Joy &amp; Curiosity #7](https://voidash.github.io/blog/joy-and-curiosity/2025/7/)
+- [Joy &amp; Curiosity #6](https://voidash.github.io/blog/joy-and-curiosity/2025/6/)
+- [Joy &amp; Curiosity #5](https://voidash.github.io/blog/joy-and-curiosity/2025/5/)
 <!-- BLOG-POST-LIST:END -->
 
 -----------------------
